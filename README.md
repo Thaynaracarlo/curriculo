@@ -1,6 +1,3 @@
-# curriculo
-currículo criado na aula de FDW
-
 # Projeto Curriculo web
 
 ## 📋 Sobre o Currículo
