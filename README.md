@@ -1,30 +1,59 @@
-# Projeto Curriculo web
+# 🚀 Projeto Currículo web
 
 ## 📋 Sobre o Currículo
 
 O projeto de currículo foi realizado de forma interdisciplinar, composto pelas seguintes matérias:
 
-* Língua Portuguesa
+### Língua Portuguesa
 
-* Interioridades
+Montamos todo o currículo no word com a professora Carla.
 
-* Fundamentos de Desenvolvimento Web
+### Interioridades
 
- 
-## Descrição do projeto
+Descobrimos nossas hard e soft skills com a professora Thais, fazendo uma brincadeira onde nossos colegas escreviam nossas caracteristicas.
 
+### Fundamentos de Desenvolvimento Web
 
-Curriculo criado durante as aulas de Lingua Portuguesa. Nessas aulas, a professora trabalhou o currículo como gênero textual. Depois disso, nós realizamos uma atividade na disciplina de Interioridades, onde fomos estimulados a identificar nossas Hard e Soft Skills.
+Criamos um web site e estilizamos usando VSCode.
 
- 
+## 📄 Descrição do projeto
 
-### Hard e Soft Skills
+Currículo criado durante as aulas de Lingua Portuguesa, nessa aula, a professora trabalhou o currículo como gênero textual, nos ajudando a monta-lo no word. Depois disso, nós realizamos uma atividade na disciplina de Interioridades, onde fomos estimulados a identificar nossas Hard e Soft Skills. E em Fundamentos de Desenvolvimento Web, criamos um web site do nosso currículo, estilizando-o. Esse projeto foi criado para aprendermos a criarmos nosso próprio cúrriculo.
+
+## 🛠️ Tecnologias  
+
+* HTML
+
+* CSS
+
+### 🔧 Ferramentas
+
+* VSCODE
+
+* GitHub
+
+### 📁 linguagens Usadas
+
+* git clone
+
+* git add .
+
+* git commit -m ""
+
+* git push
+
+* git status
+
+### 🎁 Hard e Soft Skills
 
 As minhas Hard e Soft Skills, identificadas durante a aula de Interioridades, são:
 
 * Educada
-* trabalho em equipe 
-* participativa 
-* comunicativa 
 
+* Comunicativa
 
+* Trabalho em equipe
+
+* Participativa
+
+tem menu de contexto
